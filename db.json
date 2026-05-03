@@ -1,0 +1,95 @@
+{
+  "last_check": "2026-05-03T02:35:44.773Z",
+  "tasks": [
+    {
+      "id": "193221",
+      "title": "Vencimiento de Trabajo Práctico N°1",
+      "course": "Curso ID: 256",
+      "due_date": "Mañana, 23:59",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=256&time=1777863540#event_193221",
+      "last_updated": 1777775239087,
+      "notion_page_id": "3550b8ac-04c4-8127-bab9-ff65fea12899"
+    },
+    {
+      "id": "193697",
+      "title": "Vencimiento de TP07 LE + DDs + DC Sector Compras y Suplementos",
+      "course": "Curso ID: 277",
+      "due_date": "lunes, 4 mayo, 22:00",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=277&time=1777942800#event_193697",
+      "last_updated": 1777775239088,
+      "notion_page_id": "3550b8ac-04c4-816a-9723-ec08e5e357bc"
+    },
+    {
+      "id": "188445",
+      "title": "Vencimiento de Entrega del Trabajo Practico N° 1",
+      "course": "Curso ID: 274",
+      "due_date": "lunes, 4 mayo, 23:59",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=274&time=1777949940#event_188445",
+      "last_updated": 1777775239088,
+      "notion_page_id": "3550b8ac-04c4-81cf-bd76-f2c0e396fa67"
+    },
+    {
+      "id": "192267",
+      "title": "Asistencia Clase Presencial Teorica",
+      "course": "Curso ID: 14",
+      "due_date": "martes, 5 mayo, 14:00 » 16:22",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=14&time=1778000400#event_192267",
+      "last_updated": 1777775239088,
+      "notion_page_id": "3550b8ac-04c4-818f-ba64-d2c8d19a550d"
+    },
+    {
+      "id": "190562",
+      "title": "Asistencia Taller AN 2026",
+      "course": "Curso ID: 54",
+      "due_date": "martes, 5 mayo, 20:00 » 23:00",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=54&time=1778022000#event_190562",
+      "last_updated": 1777775239089,
+      "notion_page_id": "3550b8ac-04c4-812f-85f5-daa3eeef7648"
+    },
+    {
+      "id": "184414",
+      "title": "Vencimiento de Trabajo Practico Array - Introduccion al DOM",
+      "course": "Curso ID: 14",
+      "due_date": "martes, 5 mayo, 23:59",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=14&time=1778036340#event_184414",
+      "last_updated": 1777775239089,
+      "notion_page_id": "3550b8ac-04c4-8142-a8ef-c65df37ef76c"
+    },
+    {
+      "id": "190525",
+      "title": "Asistencia Taller AN 2026",
+      "course": "Curso ID: 54",
+      "due_date": "miércoles, 6 mayo, 12:00 » 18:00",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=54&time=1778079600#event_190525",
+      "last_updated": 1777775239089,
+      "notion_page_id": "3550b8ac-04c4-8171-b874-f176c40796ab"
+    },
+    {
+      "id": "193041",
+      "title": "Asistencia",
+      "course": "Curso ID: 279",
+      "due_date": "jueves, 7 mayo, 20:15 » 20:30",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=279&time=1778195700#event_193041",
+      "last_updated": 1777775239089,
+      "notion_page_id": "3550b8ac-04c4-8151-a863-eb31e6e69f47"
+    },
+    {
+      "id": "193772",
+      "title": "Vencimiento de Trabajo Practico Nro 5 - Dirección",
+      "course": "Curso ID: 282",
+      "due_date": "domingo, 10 mayo, 23:59",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=282&time=1778468340#event_193772",
+      "last_updated": 1777775239090,
+      "notion_page_id": "3550b8ac-04c4-8186-be4f-eaa0b54053d5"
+    },
+    {
+      "id": "192268",
+      "title": "Asistencia Clase Presencial Teorica",
+      "course": "Curso ID: 14",
+      "due_date": "martes, 12 mayo, 14:00 » 16:22",
+      "url": "https://ingenieria.campusvirtual.ucasal.edu.ar/calendar/view.php?view=day&course=14&time=1778605200#event_192268",
+      "last_updated": 1777775239090,
+      "notion_page_id": "3550b8ac-04c4-8106-bc5a-d99afad864c3"
+    }
+  ]
+}

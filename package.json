@@ -1,0 +1,20 @@
+{
+  "name": "moodle-notion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "node index.js",
+    "scrape": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@notionhq/client": "^5.20.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "puppeteer": "^24.42.0"
+  }
+}
