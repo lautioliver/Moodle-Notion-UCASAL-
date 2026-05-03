@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+
+.env
+.env.local
+
+cookies.json
+session.json
+db.json
+
+debug.html
+campus_source.html
+
+.DS_Store
+Thumbs.db
